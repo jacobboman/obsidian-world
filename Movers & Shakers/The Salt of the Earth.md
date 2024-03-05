@@ -1,0 +1,3 @@
+DICTATORSHIP OF THE PROLETARIAT
+
+So, the good guys?
