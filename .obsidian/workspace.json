@@ -13,36 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Movers & Shakers/The Stratagem.md",
+                "file": "Movers & Shakers/Shards of Timywimy.md",
                 "mode": "source",
                 "source": false
-              }
-            }
-          },
-          {
-            "id": "5e3a020e26fb578b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "README.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "cbd13d495fcb3aa4",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.5.11"
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -108,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "Movers & Shakers/Shards of Timywimy.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "Movers & Shakers/Shards of Timywimy.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "Movers & Shakers/Shards of Timywimy.md"
               }
             }
           }
@@ -169,12 +146,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "cbd13d495fcb3aa4",
+  "active": "77859ef5fb9a253f",
   "lastOpenFiles": [
+    "Movers & Shakers/The Ritual.md",
     "Movers & Shakers/The Stratagem.md",
     "README.md",
     "Movers & Shakers/The Salt of the Earth.md",
-    "Movers & Shakers/The Ritual.md",
     "Movers & Shakers/Movers & Shakers.md"
   ]
 }
