@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Movers & Shakers/Shards of Timywimy.md",
+                "file": "Movers & Shakers/The Stratagem.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Movers & Shakers/Shards of Timywimy.md",
+                "file": "Movers & Shakers/The Stratagem.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Movers & Shakers/Shards of Timywimy.md",
+                "file": "Movers & Shakers/The Stratagem.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Movers & Shakers/Shards of Timywimy.md"
+                "file": "Movers & Shakers/The Stratagem.md"
               }
             }
           }
@@ -143,15 +143,19 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
   "active": "77859ef5fb9a253f",
   "lastOpenFiles": [
     "Movers & Shakers/The Ritual.md",
-    "Movers & Shakers/The Stratagem.md",
-    "README.md",
     "Movers & Shakers/The Salt of the Earth.md",
-    "Movers & Shakers/Movers & Shakers.md"
+    "Movers & Shakers/The Stratagem.md",
+    "Movers & Shakers/The Wandering Glenn.md",
+    "Excalidraw/rough sketch epicentrum.md",
+    "Movers & Shakers/Movers & Shakers.md",
+    "Movers & Shakers/Shards of Timywimy.md",
+    "README.md"
   ]
 }

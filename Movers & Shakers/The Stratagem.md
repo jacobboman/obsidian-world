@@ -1,1 +1,1 @@
-In opposition to the [[Shards of Timywimy]]. The be calculating shit.
+In opposition to the [[Shards of Timywimy]]. They be calculating shit.
