@@ -6,7 +6,7 @@ The zone has at times (and at the/that moment) been heavily besieged. One such a
 The current rulers of the area have been in their position for a long (100+?) years, and have been able to utilize the effects of the epicentrum. 
 
 ### The Very Core
-It's almost impossible to see it, and being that close to the core, is tantamount to suicide. 
+It's a,lmost impossible to see it, and being that close to the core, is tantamount to suicide. 
 Part of the difficulty is the extreme mass of bodies that have built up blocking the view, but somewhere beyond that point is *something*, and some occult prophecies predict that that something is alive, and might soon wake up from its slumber.
 
 ## The different shards
