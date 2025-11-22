@@ -8,3 +8,4 @@
 - Narrative fights, or; since a fight is usually a pathway to a narratively interesting point in a story, the fight has a "crescendo" 
 	- Can stats boil down to how easy it is to get "spotlights" (as a resource) to do things?
 - Push yourself "stress" 
+	- Everything is a resource; playing aggressively and using all resources should be ok, and getting more resources should be possible but at a cost of i.e. risk.
