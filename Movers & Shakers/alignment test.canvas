@@ -32,6 +32,7 @@
 		{"id":"0da6a97ae4dde572","fromNode":"818a532de68f6620","fromSide":"bottom","toNode":"db9a3a7951227790","toSide":"top"},
 		{"id":"448643b96da45754","fromNode":"8997d7c34fa8d12a","fromSide":"right","toNode":"0ed5b5557c72e121","toSide":"left"},
 		{"id":"283bca70f52b481f","fromNode":"fe373b45c65b2cd7","fromSide":"right","toNode":"056463031a1009a9","toSide":"left"},
-		{"id":"c9df319e82769ff3","fromNode":"4a5324cfc204df8c","fromSide":"right","toNode":"230094c34c560c2f","toSide":"left"}
+		{"id":"c9df319e82769ff3","fromNode":"4a5324cfc204df8c","fromSide":"right","toNode":"230094c34c560c2f","toSide":"left"},
+		{"id":"e0b348cbeeadfbeb","fromNode":"e6223d2b2917177e","fromSide":"bottom","toNode":"0ed5b5557c72e121","toSide":"bottom"}
 	]
 }

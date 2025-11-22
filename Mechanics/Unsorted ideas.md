@@ -13,3 +13,4 @@
 	- Everything is a resource; playing aggressively and using all resources should be ok, and getting more resources should be possible but at a cost of i.e. risk.
 - Failure conditions and what is it worth to sacrifice your character for? 
 - Dice as a power - pretty/novel dice are better <3
+- Places not as in places on a map, but rather a possible place, to plug into any other world, or to use as a placeholder or replacement for any other, in whatever world is currently being explored: use parts of [[The Halls of Saints]] in the middle of Waterdeep

@@ -1,0 +1,1 @@
+A place where time has been quite broken. It's reminiscent of a black hole. The closer to the center one gets the s
