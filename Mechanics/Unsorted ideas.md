@@ -3,7 +3,7 @@
 		- The narrative levels up
 - Classes archetypes from where ever, choose a certain archetype to be a  rogue maybe you need "backstabber", but anyone can take it, so you can be a wizard rogue.
 	- these types could be near endless, and while some would be specialities (with prerequisites) many would be accessible and useful for anyone.
-	- It's important that these no 
+	- It's a risk that these end up catering too heavily toward some power fantasy, and that's something to be mindful of
 - Narrative fights, or; since a fight is usually a pathway to a narratively interesting point in a story, the fight has a "crescendo" 
 	- Can stats boil down to how easy it is to get "spotlights" (as a resource) to do things?
 - Push yourself i.e. "stress" 
