@@ -13,15 +13,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "The world/Places/The Epicentrum.md",
+                "file": "Mechanics/Unsorted ideas.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "The Epicentrum"
+              "title": "Unsorted ideas"
+            }
+          },
+          {
+            "id": "5e686c14b6921390",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "The world/Places/The Halls of Saints.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "The Halls of Saints"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -94,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "The world/Places/The Epicentrum.md",
+                "file": "The world/Places/The Halls of Saints.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +119,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for The Epicentrum"
+              "title": "Backlinks for The Halls of Saints"
             }
           },
           {
@@ -113,12 +128,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "The world/Places/The Epicentrum.md",
+                "file": "The world/Places/The Halls of Saints.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from The Epicentrum"
+              "title": "Outgoing links from The Halls of Saints"
             }
           },
           {
@@ -142,13 +157,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "The world/Places/The Epicentrum.md",
+                "file": "The world/Places/The Halls of Saints.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of The Epicentrum"
+              "title": "Outline of The Halls of Saints"
             }
           }
         ]
@@ -174,16 +189,17 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "77859ef5fb9a253f",
+  "active": "5e686c14b6921390",
   "lastOpenFiles": [
-    "Excalidraw/rough sketch epicentrum.md",
+    "Mechanics/Unsorted ideas.md",
+    "Phenoms/Voidpox.md",
     "The world/Places/The Epicentrum.md",
+    "Excalidraw/rough sketch epicentrum.md",
     "Magic/Magic.md",
     "other games/The ground itself.md",
     "Phenoms/Emberwood.md",
     "The world/Places/The Halls of Saints.md",
     "Home.md",
-    "Mechanics/Unsorted ideas.md",
     "The world/The world.md",
     "Movers & Shakers/alignment test.canvas",
     "Movers & Shakers/Factions/Factions.md",
@@ -201,7 +217,6 @@
     "Movers & Shakers/Gods/nothing.md",
     "Movers & Shakers/The Stratagem.md",
     "Movers & Shakers/The Ritual.md",
-    "Movers & Shakers/The Salt of the Earth.md",
-    "Movers & Shakers/The Wandering Glenn.md"
+    "Movers & Shakers/The Salt of the Earth.md"
   ]
 }
