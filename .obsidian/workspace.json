@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Movers & Shakers/Gods/of shade and green.md",
+                "file": "Mechanics/Unsorted ideas.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "of shade and green"
+              "title": "Unsorted ideas"
             }
           },
           {
@@ -108,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Movers & Shakers/Gods/of shade and green.md",
+                "file": "Mechanics/Unsorted ideas.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +118,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for of shade and green"
+              "title": "Backlinks for Unsorted ideas"
             }
           },
           {
@@ -127,12 +127,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Movers & Shakers/Gods/of shade and green.md",
+                "file": "Mechanics/Unsorted ideas.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from of shade and green"
+              "title": "Outgoing links from Unsorted ideas"
             }
           },
           {
@@ -156,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Movers & Shakers/Gods/of shade and green.md",
+                "file": "Mechanics/Unsorted ideas.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of of shade and green"
+              "title": "Outline of Unsorted ideas"
             }
           }
         ]
@@ -190,6 +190,9 @@
   },
   "active": "77859ef5fb9a253f",
   "lastOpenFiles": [
+    "Mechanics/Magic/Magic.md",
+    "Mechanics/Unsorted ideas.md",
+    "Movers & Shakers/Gods/of shade and green.md",
     "Movers & Shakers/Gods/ice and thought.md",
     "Movers & Shakers/Gods/nothing.md",
     "The world/Places/The Epicentrum.md",
@@ -199,14 +202,12 @@
     "Phenoms/Impetus.md",
     "The world/The world.md",
     "Movers & Shakers/Factions/Shards of The Eons.md",
-    "Mechanics/Unsorted ideas.md",
     "Movers & Shakers/Factions/The Spiced Coin.md",
     "Movers & Shakers/Factions/The Salt of the Earth.md",
     "Movers & Shakers/Factions/The Scribes of the Last Words.md",
     "Movers & Shakers/Factions/The Stratagem.md",
     "The world/Places/The Halls of Saints.md",
     "Excalidraw/rough sketch epicentrum.md",
-    "Magic/Magic.md",
     "other games/The ground itself.md",
     "Phenoms/Emberwood.md",
     "Home.md",
@@ -215,7 +216,6 @@
     "Movers & Shakers/Gods/Gods.md",
     "Movers & Shakers/Gods/breath and sea.md",
     "Movers & Shakers/Gods/flesh and turmoil.md",
-    "Movers & Shakers/Gods/time and mutations.md",
-    "Movers & Shakers/Gods/The Ones Beyond.md"
+    "Movers & Shakers/Gods/time and mutations.md"
   ]
 }

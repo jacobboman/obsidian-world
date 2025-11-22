@@ -1,12 +1,9 @@
 - The story levels up
 	- The cities levels up
 		- The narrative levels up
-- Magic is just defined as incremental damage in chunks for example small, medium, large and XL
-	- A small spell would do 1d4 dmg, medium 1d6 etc.
-	- A small spell could also only be an area of effect of +0, medium +5, and XL +15 or something.
-	- healing would follow the same rules?
-	- More abstract things like "conjure a magical rope"
 - Classes archetypes from where ever, choose a certain archetype to be a  rogue maybe you need "backstabber", but anyone can take it, so you can be a wizard rogue.
+	- these types could be near endless, and while some would be specialities (with prerequisites) many would be accessible and useful for anyone.
+	- It's important that these no 
 - Narrative fights, or; since a fight is usually a pathway to a narratively interesting point in a story, the fight has a "crescendo" 
 	- Can stats boil down to how easy it is to get "spotlights" (as a resource) to do things?
 - Push yourself i.e. "stress" 
