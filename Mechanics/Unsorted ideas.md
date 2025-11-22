@@ -6,7 +6,7 @@
 	- It's a risk that these end up catering too heavily toward some power fantasy, and that's something to be mindful of
 - Narrative fights, or; since a fight is usually a pathway to a narratively interesting point in a story, the fight has a "crescendo" 
 	- Can stats boil down to how easy it is to get "spotlights" (as a resource) to do things?
-- Push yourself i.e. "stress" 
+- Push yourself i.e. "stress"
 	- Everything is a resource; playing aggressively and using all resources should be ok, and getting more resources should be possible but at a cost of i.e. risk.
 - Failure conditions and what is it worth to sacrifice your character for? 
 - Dice as a power - pretty/novel dice are better <3
