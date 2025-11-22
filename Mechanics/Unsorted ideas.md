@@ -6,3 +6,5 @@
 	- healing would follow the same rules.
 	- More abstract things like "conjure a magical rope "
 - Narrative fights, or; since a fight is usually a pathway to a narratively interesting point in a story, the fight has a "crescendo" 
+	- Can stats boil down to how easy it is to get "spotlights" (as a resource) to do things?
+	- 
