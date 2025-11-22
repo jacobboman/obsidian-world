@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Movers & Shakers/Gods/The Last God.md",
+                "file": "Movers & Shakers/Factions/Factions.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "The Last God"
+              "title": "Factions"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Movers & Shakers/Gods/The Last God.md",
+                "file": "Movers & Shakers/Factions/Factions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for The Last God"
+              "title": "Backlinks for Factions"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Movers & Shakers/Gods/The Last God.md",
+                "file": "Movers & Shakers/Factions/Factions.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from The Last God"
+              "title": "Outgoing links from Factions"
             }
           },
           {
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Movers & Shakers/Gods/The Last God.md",
+                "file": "Movers & Shakers/Factions/Factions.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of The Last God"
+              "title": "Outline of Factions"
             }
           }
         ]
@@ -167,11 +167,22 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "obsidian-git:Open Git source control": false,
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "omnisearch:Omnisearch": false
     }
   },
   "active": "77859ef5fb9a253f",
   "lastOpenFiles": [
+    "Movers & Shakers/Gods/Gods.md",
+    "Movers & Shakers/Gods/breath and sea.md",
+    "Movers & Shakers/Factions/Factions.md",
+    "Movers & Shakers/Gods/flesh and turmoil.md",
+    "Movers & Shakers/Gods/time and mutations.md",
+    "Movers & Shakers/Gods/The Ones Beyond.md",
+    "Movers & Shakers/Gods/The Last God.md",
     "Movers & Shakers/Gods/The Arcane Creator.md",
     "Movers & Shakers/Gods/of Theft and Longing.md",
     "Movers & Shakers/Gods/of sky and light.md",
