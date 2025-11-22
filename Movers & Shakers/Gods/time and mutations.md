@@ -1,0 +1,1 @@
+Changes in the past, changes in the future, but the present is nothing.

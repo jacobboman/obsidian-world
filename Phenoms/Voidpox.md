@@ -1,0 +1,1 @@
+An illness that besets people seemingly at random. Chunks of their flesh simply disappear, leaving them weakened and with nasty holes, alike to the common pox.
