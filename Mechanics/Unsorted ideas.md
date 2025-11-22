@@ -5,3 +5,4 @@
 	- A small spell could also only be an area of effect of +0, medium +5, and XL +15 or something.
 	- healing would follow the same rules.
 	- More abstract things like "conjure a magical rope "
+- Narrative fights, or; since a fight is usually a pathway to a narratively interesting point in a story, the fight has a "crescendo" 
