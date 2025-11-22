@@ -1,1 +1,1 @@
-continents, countries, cities and wonderous sights.
+continents, countries, cities and wondrous sights.

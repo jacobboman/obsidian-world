@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mechanics/Unsorted ideas.md",
+                "file": "Phenoms/Voidpox.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Unsorted ideas"
+              "title": "Voidpox"
             }
           },
           {
@@ -27,16 +27,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "The world/Places/The Halls of Saints.md",
+                "file": "The world/Places/The Epicentrum.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "The Halls of Saints"
+              "title": "The Epicentrum"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -109,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "The world/Places/The Halls of Saints.md",
+                "file": "Phenoms/Voidpox.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +118,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for The Halls of Saints"
+              "title": "Backlinks for Voidpox"
             }
           },
           {
@@ -128,12 +127,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "The world/Places/The Halls of Saints.md",
+                "file": "Phenoms/Voidpox.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from The Halls of Saints"
+              "title": "Outgoing links from Voidpox"
             }
           },
           {
@@ -157,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "The world/Places/The Halls of Saints.md",
+                "file": "Phenoms/Voidpox.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of The Halls of Saints"
+              "title": "Outline of Voidpox"
             }
           }
         ]
@@ -189,18 +188,26 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "5e686c14b6921390",
+  "active": "77859ef5fb9a253f",
   "lastOpenFiles": [
+    "Phenoms/The Fishblade.md",
+    "Phenoms/Steeltrees and the rust.md",
+    "Phenoms/Impetus.md",
+    "The world/The world.md",
+    "Movers & Shakers/Factions/Shards of The Eons.md",
     "Mechanics/Unsorted ideas.md",
-    "Phenoms/Voidpox.md",
     "The world/Places/The Epicentrum.md",
+    "Movers & Shakers/Factions/The Spiced Coin.md",
+    "Movers & Shakers/Factions/The Salt of the Earth.md",
+    "Movers & Shakers/Factions/The Scribes of the Last Words.md",
+    "Movers & Shakers/Factions/The Stratagem.md",
+    "The world/Places/The Halls of Saints.md",
+    "Phenoms/Voidpox.md",
     "Excalidraw/rough sketch epicentrum.md",
     "Magic/Magic.md",
     "other games/The ground itself.md",
     "Phenoms/Emberwood.md",
-    "The world/Places/The Halls of Saints.md",
     "Home.md",
-    "The world/The world.md",
     "Movers & Shakers/alignment test.canvas",
     "Movers & Shakers/Factions/Factions.md",
     "Movers & Shakers/Gods/Gods.md",
@@ -209,14 +216,6 @@
     "Movers & Shakers/Gods/time and mutations.md",
     "Movers & Shakers/Gods/The Ones Beyond.md",
     "Movers & Shakers/Gods/The Last God.md",
-    "Movers & Shakers/Gods/The Arcane Creator.md",
-    "Movers & Shakers/Gods/of Theft and Longing.md",
-    "Movers & Shakers/Gods/of sky and light.md",
-    "Movers & Shakers/Gods/of shade and green.md",
-    "Movers & Shakers/Gods/of fire and rock.md",
-    "Movers & Shakers/Gods/nothing.md",
-    "Movers & Shakers/The Stratagem.md",
-    "Movers & Shakers/The Ritual.md",
-    "Movers & Shakers/The Salt of the Earth.md"
+    "Movers & Shakers/Gods/The Arcane Creator.md"
   ]
 }
