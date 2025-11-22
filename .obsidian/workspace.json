@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "other games/The ground itself.md",
+                "file": "Mechanics/Unsorted ideas.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "The ground itself"
+              "title": "Unsorted ideas"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "other games/The ground itself.md",
+                "file": "Mechanics/Unsorted ideas.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for The ground itself"
+              "title": "Backlinks for Unsorted ideas"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "other games/The ground itself.md",
+                "file": "Mechanics/Unsorted ideas.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from The ground itself"
+              "title": "Outgoing links from Unsorted ideas"
             }
           },
           {
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "other games/The ground itself.md",
+                "file": "Mechanics/Unsorted ideas.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of The ground itself"
+              "title": "Outline of Unsorted ideas"
             }
           }
         ]
@@ -172,6 +172,9 @@
   },
   "active": "77859ef5fb9a253f",
   "lastOpenFiles": [
+    "Movers & Shakers/Gods/of Theft and Longing.md",
+    "Movers & Shakers/Gods/of sky and light.md",
+    "other games/The ground itself.md",
     "Mechanics/Unsorted ideas.md",
     "Movers & Shakers/The Stratagem.md",
     "Movers & Shakers/The Ritual.md",
